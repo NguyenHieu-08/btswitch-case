@@ -1,0 +1,12 @@
+#can_nang, #chieu_cao {
+    border-radius: 3px;
+}
+
+#can_nang {
+    margin-left: 4px;
+}
+
+#pResult {
+    font-weight: bold;
+    font-size: 50px;
+}
